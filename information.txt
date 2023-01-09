@@ -1,0 +1,7 @@
+git directoy
+pastas directoy
+git init
+git clone https://github.com/mariaandreza/course-hacks-de-produto.git
+ls 
+git add .               # adiciona todos os arquivos modificados no stage
+git commit -m "Teste"   # faz o commit dos arquivos modificados
